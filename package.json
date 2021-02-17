@@ -1,0 +1,19 @@
+{
+  "name": "shop-google-sheets-web",
+  "version": "0.1.0",
+  "author": "Faerul Salamun",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next dev -p 3001",
+    "build": "next build && next export",
+    "start": "next start"
+  },
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "next": "latest",
+    "react": "^16.13.1",
+    "react-bootstrap": "^1.0.1",
+    "react-dom": "^16.13.1",
+    "react-infinite-scroll-component": "^5.0.5"
+  }
+}
